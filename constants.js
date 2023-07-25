@@ -7,9 +7,9 @@ const commandKeys = {
   a: "Move: left",
   s: "Move: down",
   d: "Move: right",
-  k: "Say: konnichiwa",
-  m: "Say: meow",
-  n: "Say: nande",
+  i: "Say: ily",
+  b: "Say: bonjour",
+  l: "Say: sabaidee!",
 };
 
 module.exports = {
