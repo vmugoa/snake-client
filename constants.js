@@ -1,6 +1,6 @@
 const IP = "localhost";
 const PORT = 50541;
-const userName = "Name: IND";
+const userName = "Name: VDM";
 
 const commandKeys = {
   w: "Move: up",
